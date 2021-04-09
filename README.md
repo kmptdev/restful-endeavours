@@ -1,6 +1,6 @@
 # restful-endeavours
 
-## What is a RESTfu Endeavour?
+## What is a RESTful Endeavour?
 
 ## Why was it needed?
 
